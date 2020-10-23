@@ -3,5 +3,4 @@
 ## About Us
 
 | Vanessa | Mary | Zewei | Mónica | Julie |
-|---------|------|-------|--------|-------|
-| |Hey, I’m Mary and I’m majoring in Sciences and Engineering. I love popular culture, communication and art, and when I’m not writing articles for Sci-Fi and Fantasy society’s blog, I moonlight as a computer science and Russian language student. I’d love to explore data journalism once I leave university!|       |        |       |
+|I’m a 2nd year BASc student majoring in Societies and I’m interested in economics and sustainability, in topics ranging from circular economies to sustainable energy. I enjoy writing for Pi Media and dancing (urban and jazz) in my free time. |------|-------|--------|-------|
